@@ -10,8 +10,10 @@ The `validates_formatting_of` gem adds several convenient methods to validate th
 
 * 1.9.3
 * 2.0.0
-* 2.1.0
-* 2.2.0
+* 2.1.8
+* 2.2.7
+* 2.3.4
+* 2.4.1
 
 # Installation
 
