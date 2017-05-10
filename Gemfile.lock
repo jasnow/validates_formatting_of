@@ -21,7 +21,7 @@ GEM
     its (0.2.0)
       rspec-core
     json (2.1.0)
-    minitest (5.10.1)
+    minitest (5.10.2)
     rake (12.0.0)
     rspec (3.6.0)
       rspec-core (~> 3.6.0)
