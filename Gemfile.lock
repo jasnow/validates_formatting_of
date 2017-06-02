@@ -56,4 +56,4 @@ DEPENDENCIES
   validates_formatting_of!
 
 BUNDLED WITH
-   1.15.0
+   1.15.1
