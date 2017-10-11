@@ -10,10 +10,12 @@ The `validates_formatting_of` gem adds several convenient methods to validate th
 
 * 1.9.3
 * 2.0.0
-* 2.1.8
-* 2.2.7
-* 2.3.4
-* 2.4.1
+* 2.1.10
+* 2.2.8
+* 2.3.5
+* 2.4.2
+* 2.5.0-preview1
+* jruby-19mode
 
 # Installation
 
