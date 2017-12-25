@@ -14,7 +14,7 @@ The `validates_formatting_of` gem adds several convenient methods to validate th
 * 2.2.9
 * 2.3.6
 * 2.4.3
-* 2.5.0-rc1
+* 2.5.0
 * jruby-19mode
 
 # Installation
